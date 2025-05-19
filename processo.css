@@ -1,0 +1,50 @@
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #cec3c3;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #e7dede;
+}
+
+.imagem{
+  width: 300px;
+  height: 300px;
+  border-radius: 2cqh; 
+  border-color:black;
+}
+
+a:link {
+  color: rgb(42, 122, 42);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(218, 211, 212);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(20, 19, 19);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgba(49, 17, 85, 0.534);
+  background-color: transparent;
+  text-decoration: underline;
+}
+h1{text-align: center;
+}
+body{background-color: rgb(109, 85, 131);}
